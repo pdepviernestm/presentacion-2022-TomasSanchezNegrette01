@@ -10,4 +10,4 @@ Hola, mi nombre es Tomás Sánchez Negrette, tengo 20 años y mi legajo es 175.7
 - Me gusta mucho la musica, me encanta tocar el bajo en mi tiempo libre y escuchar todo tipo de generos distintos.
 
 
-![WhatsApp Image 2022-03-21 at 11 21 38 PM](https://user-images.githubusercontent.com/102691505/161451768-9aeeb225-36cc-4f52-92a3-f5733f2c9f55.jpeg)
+![WhatsApp Image 2022-03-21 at 11 21 38 PM](https://user-images.githubusercontent.com/102691505/161451818-433eab1d-ef19-44f8-90c0-2ccc080f554b.jpeg)
