@@ -5,7 +5,7 @@ Hola, mi nombre es Tomás Sánchez Negrette, tengo 20 años y mi legajo es 175.7
 
 ### Sobre mi:
 
-- Entré a sistemas en el 2020 y recién este año tuve mi primer clase presencial la cual estuvo muy interesante.
+- Entré a sistemas en el 2020 y recién este año tuve mi primera clase presencial la cual estuvo muy interesante.
 - No suelo mirar muchas series o peliculas pero ultimamante me enganché viendo Modern Family, es muy graciosa y ayuda a terminar el dia de buen humor.
 - Me gusta mucho la musica, me encanta tocar el bajo en mi tiempo libre y escuchar todo tipo de generos distintos.
 
